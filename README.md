@@ -2,7 +2,7 @@
 
 A Shooting Game (actually just an engine).
 
-All source code is in the folder named 'src'.
+All source code is in the folder named `src`.
 
 The game/engine is in a very early stage, I started working on this in December of 2003 but wasn't able to continue after a few weeks. You are free to modify/enhance/do anything you want with the software.
 
@@ -11,7 +11,7 @@ The game/engine is in a very early stage, I started working on this in December 
 * [SDL](http://libsdl.org/)
 * arifeldman.com for graphics
 
-## Notes
+## Tasks
 
 ### Objects
 
