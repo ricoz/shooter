@@ -6,6 +6,12 @@ All source code is in the folder named `src`.
 
 The game/engine is in a very early stage, I started working on this in December of 2003 but wasn't able to continue after a few weeks. You are free to modify/enhance/do anything you want with the software.
 
+## Screenshots
+
+<img src="screenshots/1.png" alt="Shooter screenshot 1" width="33%">
+<img src="screenshots/2.png" alt="Shooter screenshot 2" width="33%">
+<img src="screenshots/3.png" alt="Shooter screenshot 3" width="33%">
+
 ## Links
 
 * [SDL](http://libsdl.org/)
@@ -66,5 +72,6 @@ The game/engine is in a very early stage, I started working on this in December 
 
 ### Issues
 
+- [ ] Fix framerate, too fast on current machines
 - [ ] Optimize by removing bitmask creation inside the bullets' constructor and then
 - [ ] Allow the engine to manage the bitmasks of all the bullets
