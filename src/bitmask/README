@@ -1,0 +1,26 @@
+
+                             bitmask.c 1.1
+                             -------------
+
+     Simple and efficient bitmask collision detection routines
+   Copyright (C) 2002 Ulf Ekstrom except for the bitcount function.
+ 
+   A bitmask is a simple array of bits, which can be used for 
+   2d collision detection. Set 'unoccupied' area to zero and
+   occupies areas to one and use the bitmask_overlap*() functions
+   to check for collisions. 
+
+          > See bitmask.h and bitmask.c for more info. <
+
+   The code has only been tested with gcc, but should work with 
+   any recent compiler. The only thing which is compiler dependent
+   is the 'inline' keyword, which is taken care of by #ifdef's.
+   On some compilers you may have to remove the attribute altogether.
+
+   -- ulfek@ifm.liu.se
+
+changelog:
+
+	2002-08-08: fixed overlap position bug
+
+
