@@ -8,9 +8,8 @@ The game/engine is in a very early stage, I started working on this in December 
 
 ## Screenshots
 
-<img src="screenshots/1.png" alt="Shooter screenshot 1" width="33%">
-<img src="screenshots/2.png" alt="Shooter screenshot 2" width="33%">
-<img src="screenshots/3.png" alt="Shooter screenshot 3" width="33%">
+<img src="screenshots/1.png" alt="Shooter screenshot 1" width="33%"><img src="screenshots/2.png" alt="Shooter screenshot 2" width="33%"><img src="screenshots/3.png" alt="Shooter screenshot 3" width="33%">
+<img src="screenshots/4.png" alt="Shooter screenshot 4" width="33%"><img src="screenshots/5.png" alt="Shooter screenshot 5" width="33%"><img src="screenshots/6.png" alt="Shooter screenshot 6" width="33%">
 
 ## Links
 
