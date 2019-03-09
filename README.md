@@ -15,56 +15,56 @@ The game/engine is in a very early stage, I started working on this in December 
 
 ### Objects
 
-* ~Enemy ships~
-* ~The hero ship~
-* Power-ups
-* Score
-* No. of hero ships left
-* Shield meter
-* Current weapon indicator
-* ~Bullets~
-* ~Explosions/particles~
-* Small explosions when a ship is hit
-* Sound effects/music
-* Buttons
-* Menu
+- [x] ~Enemy ships~
+- [x] ~The hero ship~
+- [ ] Power-ups
+- [ ] Score
+- [ ] No. of hero ships left
+- [ ] Shield meter
+- [ ] Current weapon indicator
+- [x] ~Bullets~
+- [x] ~Explosions/particles~
+- [ ] Small explosions when a ship is hit
+- [ ] Sound effects/music
+- [ ] Buttons
+- [ ] Menu
 
 ### Enemy Ships
 
-* ~Hit points~
-* ~Damage~
-* ~Explodes when killed~
-* ~Dead/alive~
-* ~Weapon type~
-* Animation type
-* ~Can fire~
-* Damaged when collided with hero, has damage delay
+- [x] ~Hit points~
+- [x] ~Damage~
+- [x] ~Explodes when killed~
+- [x] ~Dead/alive~
+- [x] ~Weapon type~
+- [ ] Animation type
+- [x] ~Can fire~
+- [ ] Damaged when collided with hero, has damage delay
 
 ### The Player's Ship
 
-* ~Hit points~
-* ~Damage~
-* ~Explodes when killed~
-* ~Dead/alive~
-* ~Weapon/bullet type~
-* Animation type
-* ~Can fire~
-* ~Can be controlled by the keyboard~
-* Can be controlled by the joystick
-* Immortal for a few seconds after re-spawn
+- [x] ~Hit points~
+- [x] ~Damage~
+- [x] ~Explodes when killed~
+- [x] ~Dead/alive~
+- [x] ~Weapon/bullet type~
+- [ ] Animation type
+- [x] ~Can fire~
+- [x] ~Can be controlled by the keyboard~
+- [ ] Can be controlled by the joystick
+- [ ] Immortal for a few seconds after re-spawn
 
 ### Bullet
 
-* ~Moves up or down / direction~
-* ~X, y origin~
-* Type - handled by the game engine
-* Different animations
+- [x] ~Moves up or down / direction~
+- [x] ~X, y origin~
+- [ ] Type - handled by the game engine
+- [ ] Different animations
 
 ### Game
 
-* Pause when window not focused
+- [ ] Pause when window not focused
 
 ### Issues
 
-* Optimize by removing bitmask creation inside the bullets' constructor and then
-* Allow the engine to manage the bitmasks of all the bullets
+- [ ] Optimize by removing bitmask creation inside the bullets' constructor and then
+- [ ] Allow the engine to manage the bitmasks of all the bullets
