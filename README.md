@@ -14,7 +14,7 @@ The game/engine is in a very early stage, I started working on this in December 
 ## Links
 
 * [SDL](http://libsdl.org/)
-* arifeldman.com for graphics
+* [arifeldman.com](http://arifeldman.com/) for graphics
 
 ## Tasks
 
